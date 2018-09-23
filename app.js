@@ -12,6 +12,7 @@ async function start() {
     const todayTime = new Date();
     //const currentDate = `${todayTime.getFullYear()}-${todayTime.getMonth() + 1}-${todayTime.getDate()}`;
     const docs = await col.find().toArray();
+    console.log(docs);
 
 
     var msg = 'Hello World';
