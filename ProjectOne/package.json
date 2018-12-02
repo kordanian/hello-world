@@ -1,0 +1,26 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hello-world/ProjectOne.git"
+  },
+  "keywords": [
+    "project",
+    "one"
+  ],
+  "author": "jt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hello-world/ProjectOne/issues"
+  },
+  "homepage": "https://github.com/hello-world/ProjectOne#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
